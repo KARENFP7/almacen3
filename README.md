@@ -1,3 +1,3 @@
 # almacen
 usuario : KARENFP7
-correo : karenflorez@gmail.com
+correo : karenflorez776@gmail.com
